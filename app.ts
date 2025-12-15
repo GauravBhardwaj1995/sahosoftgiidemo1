@@ -1,3 +1,3 @@
 Hello Sahosoft Team,
 
-I hope this message finds you well. I wanted to bring to your attention an issue I've encountered while working with the `app.ts` file in our project.
+I hope this message finds you well. I wanted to bring to your attention an issue I've encountered while working with the `app.ts` file in our project. Specifically, I've noticed that there are some inconsistencies in the type definitions that are causing compilation errors. For example, the `User` interface is missing some required properties that are being used in various parts of the application.
